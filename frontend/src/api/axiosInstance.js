@@ -2,7 +2,7 @@ import axios from 'axios';
 import { clearAuth, getToken } from '../utils/auth';
 
 const api = axios.create({
-  baseURL: import.meta.env.VITE_API_BASE_URL || '/api',
+  baseURL: "https://mini-jira-fullstack.onrender.com/api"
 });
 
 api.interceptors.request.use((config) => {
