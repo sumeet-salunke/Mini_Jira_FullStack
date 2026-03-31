@@ -4,8 +4,8 @@ Mini Jira is a full stack task management web application where users can create
 
 ## Live Demo
 
-Frontend: (GitHub Pages Link)
-Backend API: (Render Link)
+Frontend:  https://sumeet-salunke.github.io/Mini_Jira_FullStack/
+Backend API: https://mini-jira-fullstack.onrender.com
 
 ## Features
 
